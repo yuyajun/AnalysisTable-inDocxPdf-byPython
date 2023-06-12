@@ -23,4 +23,5 @@
 ● Python中解析doc文件较麻烦，因此文档尽可能采用docx/pdf格式或提前将doc转化为docx/pdf格式。
 
 ### 项目代码
-见文件：table_file_tool.py
+代码实现：table_file_tool.py
+测试文件夹：test_file
