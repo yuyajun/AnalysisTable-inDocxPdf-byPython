@@ -21,3 +21,6 @@
 ● 文档可分散在不同文件夹，可实现遍历。
 
 ● Python中解析doc文件较麻烦，因此文档尽可能采用docx/pdf格式或提前将doc转化为docx/pdf格式。
+
+### 项目代码
+见文件：table_file_tool.py
